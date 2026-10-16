@@ -1,0 +1,8 @@
+# Pinned dependencies for winning-tickets-cnn-pruning
+torch==2.12.0.dev20260327+cu128
+torchvision==0.26.0.dev20260327+cu128
+numpy==2.4.1
+pandas==3.0.0
+matplotlib==3.10.8
+pytest==9.1.1
+tabulate==0.10.0
